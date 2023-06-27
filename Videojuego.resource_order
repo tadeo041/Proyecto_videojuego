@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"DESP","order":2,"path":"sprites/DESP/DESP.yy",},
     {"name":"RunF","order":4,"path":"sprites/RunF/RunF.yy",},
+    {"name":"PU_armadura","order":5,"path":"sprites/PU_armadura/PU_armadura.yy",},
     {"name":"Pesp","order":3,"path":"sprites/Pesp/Pesp.yy",},
     {"name":"depie","order":1,"path":"sprites/depie/depie.yy",},
   ],
