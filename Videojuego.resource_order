@@ -18,9 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"DESP","order":2,"path":"sprites/DESP/DESP.yy",},
+    {"name":"Sound1","order":7,"path":"sounds/Sound1/Sound1.yy",},
+    {"name":"PU_botiquin","order":5,"path":"sprites/PU_botiquin/PU_botiquin.yy",},
     {"name":"RunF","order":4,"path":"sprites/RunF/RunF.yy",},
-    {"name":"PU_armadura","order":5,"path":"sprites/PU_armadura/PU_armadura.yy",},
     {"name":"Pesp","order":3,"path":"sprites/Pesp/Pesp.yy",},
+    {"name":"PU_armadura","order":6,"path":"sprites/PU_armadura/PU_armadura.yy",},
     {"name":"depie","order":1,"path":"sprites/depie/depie.yy",},
   ],
 }
